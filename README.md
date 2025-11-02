@@ -1,26 +1,27 @@
 # 👨‍💻 Portfólio – Paulo Isaque
 
-Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos trabalhos que desenvolvi durante minha transição de carreira para a área de desenvolvimento front-end. Todos os projetos foram criados para praticar, aprender e evoluir nas tecnologias **HTML**, **CSS** e **JavaScript**, **React.js**, **Styled-components**. 🚀
+Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos trabalhos que desenvolvi durante minha transição de carreira para a área de desenvolvimento front-end. Todos os projetos foram criados para praticar, aprender e evoluir nas tecnologias **HTML**, **CSS** e **JavaScript**, **React.js**, **Styled-components**. 
+
 
 ---
 
-## 🎬 [DevMovies](https://github.com/paulo2602/DevMovie)
+## 🎬 [DevMovies]
 
 Aplicação web criada para explorar e favoritar filmes utilizando dados de uma API pública.  
 O projeto foi desenvolvido em **React**, com uma interface moderna e intuitiva, permitindo ao usuário pesquisar títulos, visualizar sinopses e avaliações, e salvar seus filmes favoritos.
 
-**✨ Funcionalidades principais:**
+** Funcionalidades principais:**
 - Busca dinâmica de filmes por título  
 - Exibição de detalhes e notas de avaliação  
-- Design responsivo e estilização moderna  
-- Organização de componentes reutilizáveis em React  
 
 **🧠 Tecnologias utilizadas:**
 - React + Vite  
 - JavaScript (ES6+)  
 - CSS Modules  
-- The Movie Database (TMDB API)  
-
+- The Movie Database (TMDB API)
+- 
+[Veja no Github]
+(https://github.com/paulo2602/DevMovies)
 ---
 
 ## 🛒 Loja de Produtos Apple
