@@ -1,71 +1,86 @@
-# 👨‍💻 Portfólio – Paulo Isaque
+# 👨‍💻 Portfólio – Paulo Isaque  
 
-Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos trabalhos que desenvolvi durante minha transição de carreira para a área de desenvolvimento front-end. Todos os projetos foram criados para praticar, aprender e evoluir nas tecnologias **HTML**, **CSS** e **JavaScript**, **React.js**, **Styled-components**. 
+Bem-vindo ao meu portfólio de projetos!  
+Sou um desenvolvedor em transição de carreira, apaixonado por **tecnologia e desenvolvimento front-end**.  
+Aqui estão alguns dos projetos que venho criando ao longo da minha jornada de aprendizado, aplicando na prática tudo o que estudo em **HTML**, **CSS**, **JavaScript**, **React.js** e **Styled-components**.  
 
+Cada projeto representa um passo na minha evolução como programador — sempre buscando escrever códigos limpos, responsivos e com boas práticas. 🚀  
 
 ---
 
-## 🎬 [DevMovies]
+## 🎬 DevMovies  
+Aplicação web para explorar e favoritar filmes utilizando dados de uma API pública.  
+Desenvolvido em **React**, o projeto conta com uma interface moderna e intuitiva, permitindo ao usuário pesquisar títulos, visualizar sinopses, notas e salvar seus filmes favoritos.  
 
-Aplicação web criada para explorar e favoritar filmes utilizando dados de uma API pública.  
-O projeto foi desenvolvido em **React**, com uma interface moderna e intuitiva, permitindo ao usuário pesquisar títulos, visualizar sinopses e avaliações, e salvar seus filmes favoritos.
-
-** Funcionalidades principais:**
+**✨ Principais funcionalidades:**  
 - Busca dinâmica de filmes por título  
 - Exibição de detalhes e notas de avaliação  
+- Salvamento de favoritos  
 
-**🧠 Tecnologias utilizadas:**
+**🧠 Tecnologias utilizadas:**  
 - React + Vite  
 - JavaScript (ES6+)  
 - CSS Modules  
-- The Movie Database (TMDB API)
-- 
-[Veja no Github]
-(https://github.com/paulo2602/DevMovies)
+- The Movie Database (TMDB API)  
+
+🔗 [Ver no GitHub](https://github.com/paulo2602/DevMovies)
+
 ---
 
-## 🛒 Loja de Produtos Apple
+## 🛒 Loja de Produtos Apple  
+Landing page de uma loja fictícia de produtos Apple, com **slider automático**, **animações suaves** e **layout totalmente responsivo**.  
+Desenvolvido com foco em boas práticas de design e usabilidade.  
 
-**Descrição:** Landing page de uma loja fictícia que vende eletrônicos da Apple. Possui slider automático de imagens, animações suaves e layout responsivo.  
-**Tecnologias:** HTML, CSS, JavaScript  
+**🧠 Tecnologias:** HTML, CSS, JavaScript  
 🔗 [Ver no GitHub](https://github.com/paulo2602/Projeto-Loja-App)
 
 ---
 
-## 🎮 Landing Page Mario Bross
+## 🎮 Landing Page Mario Bross  
+Página inspirada no universo do **Mario Bros**, criada para treinar **estrutura HTML**, **posicionamento** e **estilização com CSS**.  
+Um projeto divertido e ótimo para reforçar fundamentos visuais e semânticos.  
 
-**Descrição:** Página de atendimento ao cliente inspirada no universo do Mario Bross. Projeto voltado para aprendizado de estrutura HTML e estilização com CSS.  
-**Tecnologias:** HTML, CSS  
+**🧠 Tecnologias:** HTML, CSS  
 🔗 [Ver no GitHub](https://github.com/paulo2602/Site-para-atendimento---Mario-Bros)
 
 ---
 
-## 💱 Conversor de Moedas
+## 💱 Conversor de Moedas  
+Ferramenta simples e funcional para conversão de moedas, com campos dinâmicos e interações em tempo real.  
+Excelente exercício de **lógica de programação** e **manipulação do DOM**.  
 
-**Descrição:** Ferramenta simples para conversão de moedas, com campos dinâmicos e interações em tempo real.  
-**Tecnologias:** HTML, CSS, JavaScript  
+**🧠 Tecnologias:** HTML, CSS, JavaScript  
 🔗 [Ver no GitHub](https://github.com/paulo2602/Conversor-de-moedas)
 
 ---
 
-## 📦 MultiDrop – Sistema de Reembolso
+## 📦 MultiDrop – Sistema de Reembolso  
+Aplicação web com múltiplas páginas, simulando um **sistema de reembolso corporativo**.  
+Possui tela de login com verificação por e-mail, listagem de compras e solicitações de reembolso.  
 
-**Descrição:** Aplicação com múltiplas páginas simulando um sistema de reembolso. Inclui tela de login com verificação por e-mail, listagem de compras e solicitação de reembolso.  
-**Tecnologias:** Vue.js, PrimeVue, JavaScript  
+**🧠 Tecnologias:** Vue.js, PrimeVue, JavaScript  
 🔗 [Ver no GitHub](https://github.com/paulo2602/MultiDrop-reembolso)
 
 ---
 
-## 🔢 Calculadora Simples
+## 🔢 Calculadora Simples  
+Projeto prático de uma **calculadora funcional** com operações básicas, desenvolvido para reforçar **conceitos de lógica e manipulação de eventos no DOM**.  
 
-**Descrição:** Projeto de calculadora funcional com operações básicas. Um ótimo exercício de lógica e manipulação do DOM.  
-**Tecnologias:** HTML, CSS, JavaScript  
-🔗 [Ver no GitHub](https://github.com/seu-usuario/Calculadora)
+**🧠 Tecnologias:** HTML, CSS, JavaScript  
+🔗 [Ver no GitHub](https://github.com/paulo2602/Calculadora)
 
 ---
 
-## 🌐 Wide Coverage Location
+## 🌐 Wide Coverage Location  
+Landing page desenvolvida com foco em **responsividade** e **organização visual**, aplicando princípios de **design limpo e layout equilibrado**.  
 
-**Descrição:** Landing page simples com foco em responsividade e organização visual. Projeto prático para fixar conceitos de posicionamento, cores e elementos visuais com CSS.  
-**Tecnologias:** HTML, CSS  
+**🧠 Tecnologias:** HTML, CSS  
 🔗 [Ver no GitHub](https://github.com/paulo2602/Projeto-Wide-coverage-location)
+
+---
+
+## 🚀 Sobre mim  
+Sou estudante de **programação Front-End** há quase dois anos, apaixonado por criar interfaces modernas e funcionais.  
+Sou **organizado, esforçado e comunicativo**, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para me tornar um desenvolvedor completo.  
+
+---
