@@ -7,6 +7,26 @@ Aqui estão alguns dos projetos que venho criando ao longo da minha jornada de a
 Cada projeto representa um passo na minha evolução como programador — sempre buscando escrever códigos limpos, responsivos e com boas práticas. 🚀  
 
 ---
+## 🌦️ GnClima — Sistema de Monitoramento de Clima em Tempo Real
+
+**Descrição:**  
+O GnClima é uma aplicação Node.js que consome dados de uma API de clima, armazena informações meteorológicas em um banco PostgreSQL e disponibiliza endpoints para consulta. Todo o ambiente é preparado com Docker, garantindo portabilidade e rápida inicialização.
+
+**🔧 Tecnologias utilizadas:**
+- Node.js + Express
+- Axios (consumo de API)
+- Sequelize (ORM)
+- PostgreSQL
+- Docker e Docker Compose
+- API de clima (OpenWeather ou similar)
+
+**📦 Funcionalidades:**
+- Consulta periódica de temperatura e condições climáticas
+- Armazenamento em banco de dados
+- Endpoints para visualização do clima coletado
+- Healthcheck para monitoramento
+
+
 
 ##  DevMovies  
 Aplicação web para explorar e favoritar filmes utilizando dados de uma API pública.  
