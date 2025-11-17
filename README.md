@@ -26,7 +26,7 @@ O GnClima é uma aplicação Node.js que consome dados de uma API de clima, arma
 - Endpoints para visualização do clima coletado
 - Healthcheck para monitoramento
 
-
+---
 
 ##  DevMovies  
 Aplicação web para explorar e favoritar filmes utilizando dados de uma API pública.  
