@@ -8,33 +8,27 @@ Cada projeto representa um passo na minha evolução como programador — sempre
 
 ---
 
-🌦️ G-CLIMA — Plataforma Completa de Monitoramento Climático com IA
-<a href="https://github.com/paulo2602/G-CLIMA"> <img src="https://raw.githubusercontent.com/paulo2602/G-CLIMA/main/docs/preview.png" alt="G-CLIMA Banner" width="800"> </a>
+## 🌦️ G-CLIMA — Plataforma Completa de Monitoramento Climático com IA
+
 
 Descrição:
 Sistema full-stack que coleta dados climáticos reais, processa em múltiplos serviços, armazena em MongoDB, e exibe tudo em um dashboard moderno.
 Inclui fila (RabbitMQ), worker em Go, API NestJS, coleta em Python e insights de IA.
 Toda a arquitetura roda via Docker Compose.
 
-Tecnologias
+Tecnologias:
 
-Python (coletor)
+-Python (coletor)
+-Go (worker)
+-RabbitMQ
+-NestJS + MongoDB
+-React + Vite + Tailwind + shadcn/ui
+-Docker Compose
+-IA para geração de insights climáticos
 
-Go (worker)
+Repositório:
 
-RabbitMQ
-
-NestJS + MongoDB
-
-React + Vite + Tailwind + shadcn/ui
-
-Docker Compose
-
-IA para geração de insights climáticos
-
-Repositório
-
-🔗 https://github.com/paulo2602/G-CLIMA
+## 🔗 https://github.com/paulo2602/G-CLIMA
 
 ---
 ## 🌦️ GnClima — Sistema de Monitoramento de Clima em Tempo Real
