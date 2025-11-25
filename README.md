@@ -6,6 +6,7 @@ Aqui estão alguns dos projetos que venho criando ao longo da minha jornada de a
 
 Cada projeto representa um passo na minha evolução como programador — sempre buscando escrever códigos limpos, responsivos e com boas práticas. 🚀  
 
+
 ---
 
 ## 🌦️ G-CLIMA — Plataforma Completa de Monitoramento Climático com IA
@@ -29,6 +30,8 @@ Toda a arquitetura roda via Docker Compose.
 
 ## 🔗 https://github.com/paulo2602/G-CLIMA
 
+
+
 ---
 
 ## 🎧 Spotify UI — Clone Front-End (React.js)
@@ -51,7 +54,9 @@ O foco foi reconstruir a interface principal utilizando React.js, Vite, styled-c
 
 🔗 Repositório
 
-👉 https://github.com/paulo2602/Spotify-copy
+## https://github.com/paulo2602/Spotify-copy
+
+
 
 ---
 
@@ -75,6 +80,10 @@ O GnClima é uma aplicação Node.js que consome dados de uma API de clima, arma
 - Healthcheck para monitoramento
 
 ## https://github.com/paulo2602/GnClima.
+
+
+
+
 ---
 
 ##  DevMovies  
@@ -94,7 +103,10 @@ Desenvolvido em **React**, o projeto conta com uma interface moderna e intuitiva
 
 🔗 [Ver no GitHub](https://github.com/paulo2602/DevMovies)
 
+
+
 ---
+
 
 ##  Loja de Produtos Apple  
 Landing page de uma loja fictícia de produtos Apple, com **slider automático**, **animações suaves** e **layout totalmente responsivo**.  
@@ -102,6 +114,8 @@ Desenvolvido com foco em boas práticas de design e usabilidade.
 
 ** Tecnologias:** HTML, CSS, JavaScript  
 🔗 [Ver no GitHub](https://github.com/paulo2602/Projeto-Loja-App)
+
+
 
 ---
 
@@ -111,6 +125,8 @@ Um projeto divertido e ótimo para reforçar fundamentos visuais e semânticos.
 
 ** Tecnologias:** HTML, CSS  
 🔗 [Ver no GitHub](https://github.com/paulo2602/Site-para-atendimento---Mario-Bros)
+
+
 
 ---
 
@@ -130,6 +146,8 @@ Possui tela de login com verificação por e-mail, listagem de compras e solicit
 ** Tecnologias:** Vue.js, PrimeVue, JavaScript  
 🔗 [Ver no GitHub](https://github.com/paulo2602/MultiDrop-reembolso)
 
+
+
 ---
 
 ##  Calculadora Simples  
@@ -138,6 +156,8 @@ Projeto prático de uma **calculadora funcional** com operações básicas, dese
 ** Tecnologias:** HTML, CSS, JavaScript  
 🔗 [Ver no GitHub](https://github.com/paulo2602/Calculadora)
 
+
+
 ---
 
 ##  Wide Coverage Location  
@@ -145,6 +165,8 @@ Landing page desenvolvida com foco em **responsividade** e **organização visua
 
 ** Tecnologias:** HTML, CSS  
 🔗 [Ver no GitHub](https://github.com/paulo2602/Projeto-Wide-coverage-location)
+
+
 
 ---
 
