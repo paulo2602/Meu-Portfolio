@@ -30,6 +30,32 @@ Toda a arquitetura roda via Docker Compose.
 ## 🔗 https://github.com/paulo2602/G-CLIMA
 
 ---
+
+## 🎧 Spotify UI — Clone Front-End (React.js)
+<a href="https://github.com/paulo2602/Spotify-copy"> <img src="https://raw.githubusercontent.com/paulo2602/Spotify-copy/main/src/assets/spotify.png" width="800"> </a>
+
+Descrição:
+Este é um projeto Front-End inspirado no layout do Spotify, desenvolvido para praticar componentização, estilização e criação de interfaces modernas.
+O foco foi reconstruir a interface principal utilizando React.js, Vite, styled-components e boas práticas de organização.
+
+## 🔧 Tecnologias usadas
+
+- React.js
+
+- Vite
+
+- JavaScript
+
+- styled-components
+
+## Responsividade
+
+🔗 Repositório
+
+👉 https://github.com/paulo2602/Spotify-copy
+
+---
+
 ## 🌦️ GnClima — Sistema de Monitoramento de Clima em Tempo Real
 
 **Descrição:**  
