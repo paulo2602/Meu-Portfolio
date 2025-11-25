@@ -6,8 +6,9 @@ Aqui estão alguns dos projetos que venho criando ao longo da minha jornada de a
 
 Cada projeto representa um passo na minha evolução como programador — sempre buscando escrever códigos limpos, responsivos e com boas práticas. 🚀  
 
-
 ---
+
+
 
 ## 🌦️ G-CLIMA — Plataforma Completa de Monitoramento Climático com IA
 
@@ -30,9 +31,10 @@ Toda a arquitetura roda via Docker Compose.
 
 ## 🔗 https://github.com/paulo2602/G-CLIMA
 
-
-
 ---
+
+
+
 
 ## 🎧 Spotify UI — Clone Front-End (React.js)
 
@@ -56,9 +58,10 @@ O foco foi reconstruir a interface principal utilizando React.js, Vite, styled-c
 
 ## https://github.com/paulo2602/Spotify-copy
 
-
-
 ---
+
+
+
 
 ## 🌦️ GnClima — Sistema de Monitoramento de Clima em Tempo Real
 
